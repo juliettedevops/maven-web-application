@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypal prod</finalName>
+		<finalName>paypal</finalName>
 		
 		<plugins>
 			<plugin>
